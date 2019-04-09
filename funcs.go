@@ -12,8 +12,8 @@ import (
 	"github.com/spf13/cast"
 )
 
-// Map is a map of useful template funcs available for FuncMap use.
-var Map = template.FuncMap{
+// FuncMap is a map of useful template funcs available for FuncMap use.
+var FuncMap = template.FuncMap{
 	"dateFormat":   dateFormat,
 	"htmlEscape":   htmlEscape,
 	"htmlUnescape": htmlUnescape,

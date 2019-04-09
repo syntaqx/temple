@@ -1,3 +1,3 @@
-# funcs
+# temple
 
-This repo provides `html/template` Funcs that I consistently use/need.
+`temple` provides `html/template` happiness.
